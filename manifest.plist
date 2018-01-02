@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/ReformSun/testApp/raw/69cddb8ec33cfeb351a0ee15810e6829af94ce5a/MDMClient.ipa</string>
+					<string>https://180.153.158.100:8017/client/MDMClient.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
