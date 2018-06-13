@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.zonety.mdm.mdmclient</string>
+				<string>cn.zonety.mdm.mdmcli</string>
 				<key>bundle-version</key>
 				<string>1.2.17</string>
 				<key>kind</key>
